@@ -1,2 +1,2 @@
-# Data_ReVisualization
+# Perceived_reasons_for_gender_inequality
 Theses graphs show the reasons given by men and women in the US as to why there is gender inequlity. One graph ranks the reasons as given by men, one graphs ranks the reasons as given by women. They show that, though there are differing percentages of responses on multiple questions, there is general agreement on the reasons, as seens by the fact that the top 3 and bottom two reasons are the same for both men and women. 
